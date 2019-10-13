@@ -97,7 +97,7 @@ echo file_get_contents('path/to/package/icons/simple-icons.svg');
 
 ## Third Party Extensions
 
-### WordPress
+### Use it with WordPress
 
 Icons are also available on WordPress through a simple plugin created by [@tjtaylo](https://github.com/tjtaylo), which you can find [here](https://wordpress.org/plugins/simple-icons/).
 
